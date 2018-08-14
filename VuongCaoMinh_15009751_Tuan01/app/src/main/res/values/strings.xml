@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VuongCaoMinh_15009751_Tuan01</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">VuongCaoMinh_15009751_Tuan01</string>
+    <string name="send">Sent</string>
 </resources>
